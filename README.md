@@ -1,5 +1,6 @@
-**👋 Hello, moi c'est Théa Blachon ou @EthraDev**
-- :books: Je suis passionnée par les manga et la culture japonaise et je suis en train de créer mon propre blog avec des articles que je pourrais mettre à jour instantanément
-- :computer: Je suis spécialisée dans le Backend, le DevOps et le Cloud Computing, même si j'adore faire du Frontend à mon temps perdu
-- :art: Je suis très créative et aime créer des projets pour mon entourage
-- :memo: Il y a eu une petite pause du coté de mon Github dû à mon alternance et des projets communs impossible à publier aux yeux de tous
+**👋 Hello, moi c'est Théa Blachon, ou @EthraDev**
+
+* 📚 Je suis passionnée par la littérature, la musique et les jeux vidéo compétitifs. Je suis joueuse amateur et je suis en train de créer mon propre blog, où je pourrai publier et mettre à jour mes articles instantanément.
+* 💻 Je suis spécialisée en **Backend**, **DevOps** et **Cloud Computing**, même si j'adore faire du **Frontend** pendant mon temps libre.
+* 🎨 Je suis très créative et j'aime concevoir des projets pour mon entourage.
+* 📝 Il y a eu une petite pause sur mon GitHub en raison de mon alternance et de plusieurs projets soumis à des accords de confidentialité, que je ne peux malheureusement pas rendre publics.
